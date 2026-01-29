@@ -1,0 +1,6 @@
+2026-01-29 12:06:24,276 - ERROR - Could not resolve hostname: python scanner.py google.com
+2026-01-29 12:07:09,017 - ERROR - Could not resolve hostname: google.com
+2026-01-29 12:09:46,499 - ERROR - Could not resolve hostname: google.com
+2026-01-29 12:13:15,160 - ERROR - Could not resolve hostname: cd "c:\Users\saipa\OneDrive\Desktop\python scanner.py" ; python Scanner.py
+2026-01-29 12:13:30,484 - INFO - [+] Port 135 is OPEN on 127.0.0.1
+2026-01-29 12:13:32,012 - INFO - [+] Port 445 is OPEN on 127.0.0.1
